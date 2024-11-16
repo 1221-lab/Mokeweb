@@ -1,0 +1,64 @@
+.header{
+	width: 100%;
+	height: 40px;
+	border: 1px solid blue;
+	background-color: dimgray;
+}
+.menu ul{
+	width: 100%;
+	height: 40px;
+	border: 1px solid blue;
+	list-style: none;
+	background-color: gray;
+	text-decoration-color: white;
+}
+.menu li{
+	display: inline-flex;
+	margin-left: 100px;
+	text-decoration-color: white;
+}
+.main{
+	width: 100%;
+	height: 600px;
+	border: 1px solid blue;
+
+}
+.cont {
+	width: 70%;
+	height: 600px;
+	border: 1px solid blue;
+	float: right;
+}
+.cont input{
+	margin-top: 10px;
+	margin-left: 100px;
+}
+.cont img{
+	width: 100px;
+	height: 150px;
+	margin-left: 100px;
+
+}
+.cont h2{
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-top: 5px;
+}
+.side ul{
+	width: 29%;
+	height: 300px;
+	float: left;
+	list-style: none;
+}
+.side {
+	width: 10%;
+	height: 300px;
+	float: left;
+	list-style: none;
+}
+.footer {
+	width: 100%;
+	height: 40px;
+	border: 1px solid blue;
+	background-color: dimgray;
+}
